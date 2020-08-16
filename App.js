@@ -5,9 +5,7 @@ import Navigation from './config/navigation'
 export default function App() {
   return (
     <Navigation/>
-    // <View style={styles.container}>
-    //   <Text>Open up App.js to start working on your app!</Text>
-    // </View>
+    
   );
 }
 
